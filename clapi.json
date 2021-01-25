@@ -1,0 +1,6 @@
+{
+    "headers":{
+        "Authorization":"token CLAPISECRET"
+    },
+    "url":"https://snyk.io/api/v1"
+}
